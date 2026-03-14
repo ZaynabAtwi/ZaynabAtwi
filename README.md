@@ -97,6 +97,7 @@ You'll catch me:
 <img alt="Static Badge" src="https://img.shields.io/badge/Remote%20Patient%20Monitoring-black">
 
 </p>
+
 ---
 
 ### AI / Data Science
@@ -111,6 +112,7 @@ You'll catch me:
 <img alt="Static Badge" src="https://img.shields.io/badge/Computer%20Vision-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/NLP%20for%20Healthcare-green">
 </p>
+
 ---
 
 ### Programming & Software Development
@@ -125,6 +127,7 @@ You'll catch me:
 <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black">
 
 </p>
+
 ---
 
 ### Research, Documentation & Technical Communication
@@ -141,6 +144,7 @@ You'll catch me:
 <img alt="Static Badge" src="https://img.shields.io/badge/Figma-purple">
 
 </p>
+
 ---
 
 ### Standards, Compliance & Interoperability
@@ -155,6 +159,7 @@ You'll catch me:
 <img alt="Static Badge" src="https://img.shields.io/badge/Risk-Aware%20System%20Design-pink">
 
 </p>
+
 ---
 
 <!-- ============================= -->
