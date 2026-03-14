@@ -66,6 +66,7 @@ You'll catch me:
 <img alt="Static Badge" src="https://img.shields.io/badge/Physiological%20Signal%20Acquisition-green">
 
 </p>
+
 ---
 
 ### Brain–Computer Interface / Neurotechnology
