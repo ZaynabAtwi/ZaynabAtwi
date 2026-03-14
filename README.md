@@ -67,7 +67,9 @@ You'll catch me:
 
 </p>
 ---
+
 ### Brain–Computer Interface / Neurotechnology
+
 
 <p align="center">
   <!-- Replace or remove badges as needed -->
@@ -79,7 +81,9 @@ You'll catch me:
 <img alt="Static Badge" src="https://img.shields.io/badge/Neurorehabilitation%20Technologies-yellow">
 
 </p>
+
 ---
+
 ### Digital Health & Health Informatics
 
 <p align="center">
@@ -93,6 +97,7 @@ You'll catch me:
 
 </p>
 ---
+
 ### AI / Data Science
 
 <p align="center">
@@ -106,6 +111,7 @@ You'll catch me:
 <img alt="Static Badge" src="https://img.shields.io/badge/NLP%20for%20Healthcare-green">
 </p>
 ---
+
 ### Programming & Software Development
 
 <p align="center">
@@ -119,7 +125,9 @@ You'll catch me:
 
 </p>
 ---
+
 ### Research, Documentation & Technical Communication
+
 
 <p align="center">
   <!-- Replace or remove badges as needed -->
@@ -133,7 +141,9 @@ You'll catch me:
 
 </p>
 ---
+
 ### Standards, Compliance & Interoperability
+
 
 <p align="center">
   <!-- Replace or remove badges as needed -->
