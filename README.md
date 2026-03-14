@@ -54,7 +54,7 @@ You'll catch me:
 <!-- ============================= -->
 
 ## Tech & Tools  
----
+
 ### Biomedical & Medical Technologies
 
 <p align="center">
@@ -66,7 +66,84 @@ You'll catch me:
 <img alt="Static Badge" src="https://img.shields.io/badge/Physiological%20Signal%20Acquisition-green">
 
 </p>
+---
+### Brain–Computer Interface / Neurotechnology
 
+<p align="center">
+  <!-- Replace or remove badges as needed -->
+<img alt="Static Badge" src="https://img.shields.io/badge/BCI%20Systems-red">
+<img alt="Static Badge" src="https://img.shields.io/badge/EEG%20Analysis-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Motor%20Imagery-brightgreen">
+<img alt="Static Badge" src="https://img.shields.io/badge/Cognitive%20State%20Decoding-pink">
+<img alt="Static Badge" src="https://img.shields.io/badge/Neural%20Signal%20Processing-white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Neurorehabilitation%20Technologies-yellow">
+
+</p>
+---
+### Digital Health & Health Informatics
+
+<p align="center">
+  <!-- Replace or remove badges as needed -->
+<img alt="Static Badge" src="https://img.shields.io/badge/Digital%20Health%20Strategy-yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/EHR-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/LIS-brightgreen">
+<img alt="Static Badge" src="https://img.shields.io/badge/Telemedicine-pink">
+<img alt="Static Badge" src="https://img.shields.io/badge/Hospital%20Information%20Systems-WHITE">
+<img alt="Static Badge" src="https://img.shields.io/badge/Remote%20Patient%20Monitoring-black">
+
+</p>
+---
+### AI / Data Science
+
+<p align="center">
+  <!-- Replace or remove badges as needed -->
+<img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/Deep%20Learning-black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Predictive%20Analytics-white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Signal%20Processing,-red">
+<img alt="Static Badge" src="https://img.shields.io/badge/Feature%20Engineering-pink">
+<img alt="Static Badge" src="https://img.shields.io/badge/Computer%20Vision-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/NLP%20for%20Healthcare-green">
+</p>
+---
+### Programming & Software Development
+
+<p align="center">
+  <!-- Replace or remove badges as needed -->
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-brightgreen">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-pink">
+<img alt="Static Badge" src="https://img.shields.io/badge/REST%20APIs-WHITE">
+<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black">
+
+</p>
+---
+### Research, Documentation & Technical Communication
+
+<p align="center">
+  <!-- Replace or remove badges as needed -->
+<img alt="Static Badge" src="https://img.shields.io/badge/Scientific%20Writing-yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/Technical%20Documentation-orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/Literature%20Review-brightgreen">
+<img alt="Static Badge" src="https://img.shields.io/badge/Research%20Workflows-pink">
+<img alt="Static Badge" src="https://img.shields.io/badge/Jupyter%20Notebooks-WHITE">
+<img alt="Static Badge" src="https://img.shields.io/badge/Canva-black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Figma-purple">
+
+</p>
+---
+### Standards, Compliance & Interoperability
+
+<p align="center">
+  <!-- Replace or remove badges as needed -->
+<img alt="Static Badge" src="https://img.shields.io/badge/HL7%2FFHIR%20Awareness-purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/Medical%20Device%20Compliance%20Awareness-black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Healthcare%20Data%20Privacy%20Principles-white">
+<img alt="Static Badge" src="https://img.shields.io/badge/AI%20Ethics%20in%20Healthcare-red">
+<img alt="Static Badge" src="https://img.shields.io/badge/Risk-Aware%20System%20Design-pink">
+
+</p>
 ---
 
 <!-- ============================= -->
