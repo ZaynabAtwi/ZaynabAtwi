@@ -170,10 +170,24 @@ You'll catch me:
 
 <p align="center">
   <!-- Replace GIF with your own or static screenshots -->
-  <img src="INSERT_PROJECT1_GIF_URL" width="150" alt="Project One Demo"/>
+  <img src="INSERT_PROJECT1_GIF_URL" width="150" alt="BiomedAI Demo"/>
 </p>
 
 ---
+
+### [BioMedAI](https://github.com/ZaynabAtwi/BioMedAI) 
+_BiomedAI is a Predictive Maintenance Intelligence Suite, an end-to-end machine learning system_  
+
+ Features:  
+- Predict equipment failures
+- Automate fault triage
+- Optimize spare-parts and technician assignments
+
+🔗 [Live Link or Store Link](INSERT_LINK_HERE)  
+
+
+---
+
 
 ### [Project One](INSERT_PROJECT_ONE_LINK)  
 _[One-line description of the project.]_  
@@ -187,6 +201,7 @@ _[One-line description of the project.]_
 
 
 ---
+
 
 <!-- ============================= -->
 <!--           WIP PROJECTS        -->
