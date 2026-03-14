@@ -221,4 +221,4 @@ _[One-line description of the project.]_
 
 ## GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Zaynab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaynabAtwi&theme=bear&show_icons=true)
