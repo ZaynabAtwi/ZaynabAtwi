@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](INSERT_BANNER_IMAGE_URL_HERE)
+![Banner](https://github.com/ZaynabAtwi/ZaynabAtwi/blob/7c2e83c112b67eea29ca20bdc87cbef98d61c79e/banner%20github.png)
 
 ---
 
